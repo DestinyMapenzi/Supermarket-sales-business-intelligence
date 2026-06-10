@@ -123,6 +123,8 @@ The analysis also explores customer segmentation based on membership status.
 
 Members slightly lead in both total transactions and revenue, indicating stronger purchasing power and higher engagement compared to normal customers. This suggests that having a membership may positively influence customer loyalty and spending behaviour. 
 
+![Customer_Type](Customer_type_pivottable.png)
+
 ### Revenue Trends Analysis
 
 
