@@ -65,9 +65,7 @@ A handles the highest customer volume but records the lowest average transaction
   
 Mandalay maintains a balanced performance with solid transaction volume and average spending. Its revenue is nearly identical to A despite serving fewer customers.
 
-4. Customer Ratings are consistent across all branches, all averaging at 7/10
-
-Customer satisfaction appears uniform across all branches, suggesting a consistent customer experience.
+4. Customer Ratings are consistent across all branches, all averaging at 7/10. Customer satisfaction appears uniform across all branches, suggesting a consistent customer experience.
 
 ![Branch_averages](Branches_averages_pivottables.png) ![Branches](Branches_pivottable.png)
 
@@ -109,10 +107,10 @@ Gender Preferences:
   - Food and Beverages
   - Sports and Travel
  
--Male-dominated product lines:
- - Electronic Accessories
- - Health and Beauty
- - Home and Lifestyle.
+- Male-dominated product lines:
+  - Electronic Accessories
+  - Health and Beauty
+  - Home and Lifestyle.
 
 Gender distribution is nearly balanced, with a slight female dominance. Product preferences vary clearly between male and female customers.
 
