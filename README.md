@@ -20,3 +20,11 @@ This project intends to analyze supermarket sales data in Excel to evaluate busi
 | Gross Margin Percentage | Profit margin percentage per transaction |
 | Gross Income | Profit earned from the transaction |
 | Rating | Customer satisfaction score (out of 10) |
+
+## Branches
+| Branch | Name |
+|------|--------|
+| A | Yangon |
+| B | Mandalay | 
+| C | Naypyitaw |
+
