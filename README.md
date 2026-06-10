@@ -1,7 +1,11 @@
 # Supermarket-sales-business-intelligence
-This project intends to analyze supermarket sales data in Excel to evaluate business performance across branches, product lines, revenue trends, tax contributions, and customer satisfaction. Through dashboards and KPI reporting, it provides actionable insights and recommendations to support informed business decisions.
+This project aims to analyze supermarket sales data in Excel to evaluate business performance across branches and product lines, track revenue trends, assess tax contributions, and measure customer satisfaction. It provides actionable insights and recommendations to support informed business decisions.
 
-# Objectives
+## Objectives
+-Analyze branch performance using revenue, transaction volume, average transaction value, and customer ratings.
+-Identify the highest and lowest performing branches.
+
+
 
 ## Dataset Overview
 | Field | Description |
