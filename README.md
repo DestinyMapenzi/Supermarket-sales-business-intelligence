@@ -69,6 +69,7 @@ Mandalay maintains a balanced performance with solid transaction volume and aver
 
 Customer satisfaction appears uniform across all branches, suggesting a consistent customer experience.
 
+![Branch_averages](Branches_averages_pivottables.png)
 
 
 
