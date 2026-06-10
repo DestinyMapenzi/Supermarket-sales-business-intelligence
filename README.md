@@ -114,7 +114,7 @@ Gender Preferences:
 
 Gender distribution is nearly balanced, with a slight female dominance. Product preferences vary clearly between male and female customers.
 
-
+![Product_lines](Product_lines_pivottable.png)
 
 
 
