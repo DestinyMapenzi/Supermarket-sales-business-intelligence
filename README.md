@@ -116,6 +116,13 @@ Gender distribution is nearly balanced, with a slight female dominance. Product 
 
 ![Product_lines](Product_lines_pivottable.png)
 
+5. Customer Type Analysis(Member vs Normal)
+The analysis also explores customer segmentation based on membership status.
+- Members: 510 transactions | Total Revenue: $164,223
+- Normal Customers: 499 transactions | Total Revenue: $158,743
+
+Members slightly lead in both total transactions and revenue, indicating stronger purchasing power and higher engagement compared to normal customers. This suggests that having a membership may positively influence customer loyalty and spending behaviour. 
+
 ### Revenue Trends Analysis
 
 
