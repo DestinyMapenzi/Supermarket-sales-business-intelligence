@@ -116,6 +116,8 @@ Gender distribution is nearly balanced, with a slight female dominance. Product 
 
 ![Product_lines](Product_lines_pivottable.png)
 
+### Revenue Trends Analysis
+
 
 
 
