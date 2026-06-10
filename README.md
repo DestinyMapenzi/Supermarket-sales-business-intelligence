@@ -43,7 +43,32 @@ This project aims to analyze supermarket sales data in Excel to evaluate busines
 | C | Naypyitaw |
 
 ## Key Insights
-### Branch Performance
+### Branch Performance Analysis
+1. Naypyitaw generates the highest revenue
+   - Total Revenue: $ 110,560
+   - Average Revenue per Transaction: $337
+   - Transactions: 328
+  
+Despite having fewer transactions than all the branches, C generates the highest overall revenue and the highest average revenue per transaction. This suggests customers in this branch tend to spend more per visit. 
+
+2. Yangon serves the most customers
+   - Transaction: 340
+   - Total Revenue: $106,200
+   - Average Revenue per Transaction: $312
+  
+A handles the highest customer volume but records the lowest average transaction value and total revenue, indicating higher customer traffic but lower spending per customer compared to other branches.
+
+3. Mandalay Shows Strong Customer Spending
+   - Transactions: 332
+   - Total Revenue: $106,198
+   - Average Revenue per Transaction: $320
+  
+Mandalay maintains a balanced performance with solid transaction volume and average spending. Its revenue is nearly identical to A despite serving fewer customers.
+
+4. Customer Ratings are consistent across all branches, all averaging at 7/10
+
+Customer satisfaction appears uniform across all branches, suggesting a consistent customer experience.
+
 
 
 
