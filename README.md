@@ -5,8 +5,8 @@ This project aims to analyze supermarket sales data in Excel to evaluate busines
 - Analyze branch performance using revenue, transaction volume, average transaction value, and customer ratings.
 - Identify the highest and lowest performing branches.
 - Evaluate product line performance based on revenue, sales volume, and customer ratings.
-- Analyze purchasing behaviour across different customer groups and genders.
 - Identify top-selling and underperforming product categories.
+- Analyze purchasing behaviour across different customer groups and genders.
 - Examine revenue trends by month, day, and time of the day.
 - Determine peak sales periods and customer shopping patterns.
 - Measure sales efficiency through average basket value and transaction value.
