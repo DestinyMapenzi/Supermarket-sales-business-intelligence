@@ -42,3 +42,8 @@ This project aims to analyze supermarket sales data in Excel to evaluate busines
 | B | Mandalay | 
 | C | Naypyitaw |
 
+## Key Insights
+### Branch Performance
+
+
+
