@@ -165,7 +165,9 @@ Transaction times were grouped into different time periods:
 - Highest Revenue Time Period: Lunch Time - $91,618
 - Lowest Revenue Time Period: Mid Morning - $61,799
 - Highest Transaction Time Period: Evening - 281 Transactions
-- Lowest Transaction Time Period: Mid Morning - 191 Transactions 
+- Lowest Transaction Time Period: Mid Morning - 191 Transactions
+
+![Sales_Time](Sales_time.png)
 
 Sales by time of the day show that the evening period recorded the highest number of transactions. This means more customers made purchases during the evening compared to other times of the day.
 However, lunch time generated the highest total revenue despite having fewer transactions than the evening period. This suggests that customers who shop during lunch time tend to spend more per transaction.
