@@ -125,7 +125,31 @@ Members slightly lead in both total transactions and revenue, indicating stronge
 
 ![Customer_Type](Customer_type_pivottable.png)
 
-### Revenue Trends Analysis
+### Revenue And Sales Timing Analysis
+This section analyzes supermarket revenue patterns across months, days, and time periods to understand when customers shop the most and when the business generates the highest sales.
+
+1. Monthly Revenue Trend
+
+The dataset covers three months: January, February, and March.
+- Highest Revenue Month: January - $116,292
+- Lowest Revenue Month:  February - $97,219
+
+January recorded the highest total revenue, indicating stronger customer purchasing activity. In contrast, February generated the lowest revenue, suggesting a possible decline in sales activity or lower customer spending.
+
+To further understand customer purchasing behaviour within each month, the month was divided into three periods:
+- Early Month
+- Mid Month
+- End Month
+This helps to identify whether customers spend more at the beginning, middle, or end of the month.
+
+- Highest Revenue Month Period: Early Month - $113,876
+- Lowest Revenue Month Period: End Month- $100,171
+
+The Early Month period generated the highest revenue, indicating that customers were more active during this period. This may be influenced by salary payments, budgeting habits, or increased shopping needs at this point in the month.
+
+Insight: Analyzing revenue by both month and period gives a clearer view of customer spending patterns. It helps the supermarket understand not only which month performed best, but also when within the month customers are most likely to spend. 
+
+2. Sales by Day of the Week 
 
 
 
