@@ -182,6 +182,34 @@ In contrast, Monday recorded both the lowest revenue and the lowest number of tr
 
 Insight: Since Saturday has the highest customer activity and revenue, the supermarket should ensure enough staff, checkout support, and inventory are available to meet demand. Monday presents an opportunity for improvement through targeted promotions, discounts, or loyalty offers to encourage more customer visits and increase sales. 
 
+4. Peak Purchasing Hour
+
+The transaction time was also analyzed by hour to identify the exact peak shopping hour.
+
+- Peak Purchasing Hour by Revenue: 7 PM - $39,000
+- Peak Purchasing Hour by Transaction: 7 PM - 113 Transactions
+- Lowest Purchasing Hour by Revenue: 8 PM - $22,970
+- Lowest Purchasing Hour by Transaction: 5 PM - 74 Transactions, also noting that 8 PM -75 Transactions
+
+7 PM emerged as the peak purchasing hour, recording both the highest revenue and the highest number of transactions. This indicates that customer traffic and spending are strongest during this hour.
+The lowest revenue was recorded at 8 PM, while the lowest number of transactions was recorded at 5 PM with 74 transactions. However, 8 PM recorded 75 transactions, only one more than 5 PM, showing both hours had relatively low activity.
+
+Insight: Since 7 PM is both the busiest and highest revenue-generating hour, the supermarket should prioritize staffing, stock availability, and checkout efficiency during this period. The low revenue at 8 PM, despite having almost the same transaction count as 5 PM, suggests lower average spending per transaction, creating an opportunity for promotions or upselling during that hour. 
+
+5. Branch Sales Timing Comparison
+
+Sales timing was compared across the three branches: 
+
+- Yangon - 11 AM
+- Mandalay - 7 PM
+- Naypyitaw - 7 PM
+
+Yangon generated its highest revenue at 11 AM, while Mandalay and Naypyitaw both recorded their highest at 7 PM.
+
+Insight: Yangon has a stronger late-morning sales pattern, while Mandalay and Naypyitaw perform best in the evening. This shows that customer shopping behaviour differs by branch, so staffing, inventory planning, and promotions should be adjusted based on each branch's peak revenue hour.
+
+
+
 
 
 
