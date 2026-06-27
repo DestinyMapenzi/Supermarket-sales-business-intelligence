@@ -214,6 +214,8 @@ Sales timing was compared across the three branches:
 - Mandalay - 7 PM
 - Naypyitaw - 7 PM
 
+![Branch_time_compare](Branch_time_compare.png)
+
 Yangon generated its highest revenue at 11 AM, while Mandalay and Naypyitaw both recorded their highest at 7 PM.
 
 Insight: Yangon has a stronger late-morning sales pattern, while Mandalay and Naypyitaw perform best in the evening. This shows that customer shopping behaviour differs by branch, so staffing, inventory planning, and promotions should be adjusted based on each branch's peak revenue hour.
