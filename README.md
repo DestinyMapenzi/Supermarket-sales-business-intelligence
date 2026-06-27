@@ -183,6 +183,8 @@ Sales were analyzed by day of the week to identify the busiest shopping days.
 - Highest Transaction Day: Saturday - 164 Transactions
 - Lowest Transaction Day: Monday - 125  Transactions
 
+![Day_of_week](Days_pivottable.png)
+
 Saturday emerges as the strongest sales day, recording both the highest revenue and the highest number of transactions, indicating that customer traffic and spending activity are highest on Saturdays.
 In contrast, Monday recorded both the lowest revenue and the lowest number of transactions, showing weaker customer activity.  
 
