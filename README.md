@@ -144,13 +144,43 @@ To further understand customer purchasing behaviour within each month, the month
 This helps to identify whether customers spend more at the beginning, middle, or end of the month.
 
 - Highest Revenue Month Period: Early Month - $113,876
-- Lowest Revenue Month Period: End Month- $100,171
+- Lowest Revenue Month Period: End Month - $100,171
 
 The Early Month period generated the highest revenue, indicating that customers were more active then. This may be influenced by salary payments, budgeting habits, or increased shopping needs at this point in the month.
 
 Insight: Analyzing revenue by both month and period gives a clearer view of customer spending patterns. It helps the supermarket understand not only which month performed best, but also when, within each month, customers are most likely to spend. 
 
-2. Sales by Day of the Week 
+2. Sales by Time of the Day
+
+Transaction times were grouped into different time periods:
+- Mid Morning
+- Afternoon
+- Lunch Time
+- Evening
+
+- Highest Revenue Time Period: Lunch Time - $91,618
+- Lowest Revenue Time Period: Mid Morning - $61,799
+- Highest Transaction Time Period: Evening - 281 Transactions
+- Lowest Transaction Time Period: Mid Morning - 191 Transactions 
+
+Sales by time of the day show that the evening period recorded the highest number of transactions. This means more customers made purchases during the evening compared to other times of the day.
+However, lunch time generated the highest total revenue despite having fewer transactions than the evening period. This suggests that customers who shop during lunch time tend to spend more per transaction.
+
+Insight: Although evening is the busiest period in terms of customer activity, lunch time is the most valuable period in terms of revenue. The supermarket can use this insight to maintain strong staffing during evening hours while also focusing on promotions and product availability around lunch time to maximize revenue.
+
+3. Sales by Day of the Week
+
+Sales were analyzed by day of the week to identify the busiest shopping days.
+
+- Highest Sales Day: Saturday - $56,121
+- Lowest Sales Day: Monday - $37,899
+- Highest Transaction Day: Saturday - 164 Transactions
+- Lowest Transaction Day: Monday - 125  Transactions
+
+Saturday emerges as the strongest sales day, recording both the highest revenue and the highest number of transactions, indicating that customer traffic and spending activity are highest on Saturdays.
+In contrast, Monday recorded both the lowest revenue and the lowest number of transactions, showing weaker customer activity.  
+
+Insight: Since Saturday has the highest customer activity and revenue, the supermarket should ensure enough staff, checkout support, and inventory are available to meet demand. Monday presents an opportunity for improvement through targeted promotions, discounts, or loyalty offers to encourage more customer visits and increase sales. 
 
 
 
