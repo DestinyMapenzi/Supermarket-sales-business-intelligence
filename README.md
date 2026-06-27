@@ -136,6 +136,8 @@ The dataset covers three months: January, February, and March.
 
 January recorded the highest total revenue, indicating stronger customer purchasing activity. In contrast, February generated the lowest revenue, suggesting a possible decline in sales activity or lower customer spending.
 
+![Month revenue](Month_pivottable.png)
+
 To further understand customer purchasing behaviour within each month, the month was divided into three periods:
 - Early Month
 - Mid Month
