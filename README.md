@@ -148,6 +148,8 @@ This helps to identify whether customers spend more at the beginning, middle, or
 - Highest Revenue Month Period: Early Month - $113,876
 - Lowest Revenue Month Period: End Month - $100,171
 
+![Month Period](Month_period_pivottable.png)
+
 The Early Month period generated the highest revenue, indicating that customers were more active then. This may be influenced by salary payments, budgeting habits, or increased shopping needs at this point in the month.
 
 Insight: Analyzing revenue by both month and period gives a clearer view of customer spending patterns. It helps the supermarket understand not only which month performed best, but also when, within each month, customers are most likely to spend. 
