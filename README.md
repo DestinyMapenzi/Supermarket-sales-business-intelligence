@@ -199,6 +199,8 @@ The transaction time was also analyzed by hour to identify the exact peak shoppi
 - Lowest Purchasing Hour by Revenue: 8 PM - $22,970
 - Lowest Purchasing Hour by Transaction: 5 PM - 74 Transactions, also noting that 8 PM -75 Transactions
 
+![Peak_Hour](Peak_Hour.png)
+
 7 PM emerged as the peak purchasing hour, recording both the highest revenue and the highest number of transactions. This indicates that customer traffic and spending are strongest during this hour.
 The lowest revenue was recorded at 8 PM, while the lowest number of transactions was recorded at 5 PM with 74 transactions. However, 8 PM recorded 75 transactions, only one more than 5 PM, showing both hours had relatively low activity.
 
